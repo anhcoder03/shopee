@@ -1,0 +1,31 @@
+#header {
+  border-bottom: 1px solid #d8d8d8;
+}
+#main {
+  margin-top: 96px;
+}
+.heading {
+  text-align: center;
+}
+.container-content {
+  max-width: 659px;
+  margin: 0 auto;
+}
+.slogan {
+  text-align: center;
+  margin-top: 24px;
+  font-size: 20px;
+  color: #000000;
+}
+.text {
+  margin-top: 46px;
+  font-size: 16px;
+  line-height: 27px;
+}
+.title {
+  padding: 39px 0 23px 0;
+  font-size: 26px;
+}
+.container-content li {
+  margin-top: 20px;
+}
